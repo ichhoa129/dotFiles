@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/mnt/study/projects/dsc/Unigo/BE/src/core/api/auth/controller'
+let g:netrw_dirhist_3='/mnt/study/projects/sgroup/Sms-BE/src/core/api/group/controller'
+let g:netrw_dirhist_2='/mnt/study/projects/sgroup/Sms-BE/src/core/api/group'
+let g:netrw_dirhist_1='/mnt/study/projects/sgroup/Sms-BE/src/core/api'
